@@ -10,7 +10,8 @@
   alt+enter를 통해 창모드와 전체화면 모드를 설정할 수 있습니다.   
  
  2.
- ><img src="/docs/img/02.동전화면.PNG" width="40%" height="30%"></img> 
+ ><img src="/docs/img/02.동전화면.PNG" width="40%" height="30%"></img>
+ 
  이렇게 생긴 동전에 가까이 가면 동전을 획득할 수 있습니다.(현재 스코어는 미구현 입니다.)
  
  3.
