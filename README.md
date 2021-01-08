@@ -3,10 +3,10 @@
 * github에는 다양한 문제로 scripts만 올립니다.
 
 ## 1. 게임 설명
-  1.
-  <img src="/docs/img/01.시작화면.PNG" width="40%" height="30%" align="center"></img>
-  게임 실행 화면 입니다.   
-  alt+enter를 통해 창모드와 전체화면 모드를 설정할 수 있습니다.
+  1.   
+  ><img src="/docs/img/01.시작화면.PNG" width="40%" height="30%"></img>   
+      게임 실행 화면 입니다.   
+      alt+enter를 통해 창모드와 전체화면 모드를 설정할 수 있습니다.
  
  2.
     이미지2   
